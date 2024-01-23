@@ -1,0 +1,36 @@
+what is git and github?
+
+step1 - first we have to create github repository - repository where we can store any file and like image ir text file 
+
+step2 - copy the http url
+
+step3 - open git bash
+following are the git bash commands
+ step4 - pwd
+         cd ..
+         cd ..
+         cd d
+         
+step5 - git clone  - url paste cgi
+ 
+step 6 - cd  cloned repository name
+step 7 - git status
+step 8 - save or copy paste any .txt or .py file into cloned repository in filegit 
+step9 - git status 
+step - git add file name
+step10 - git status
+step11 - git commit -m "new line created"
+step12 - git push
+step13 - check github repository
+step14 - git pull 
+gi git
+
+Collbrator
+open repository and click on setting
+click on collbrator
+enter githu passworg
+and add to others and write their username
+invitation send
+
+
+
